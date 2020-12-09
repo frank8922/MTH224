@@ -1,2 +1,2 @@
-# MTH224_Project
-Probability and statistics final project.
+# MTH224
+Probability and statistics assignments & final project.
